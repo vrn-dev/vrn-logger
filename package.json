@@ -1,5 +1,5 @@
 {
-  "name": "@vrn/logger",
+  "name": "vrn-logger",
   "version": "1.0.0",
   "description": "Personal Console Logger",
   "main": "dist/index.js",
